@@ -36,12 +36,12 @@ export default function Modal({
         >
           <button
             onClick={handleCloseModal}
-            className="absolute top-1 right-2 rounded-full text-red-600 border-red-600 border-2  hidden md:block "
+            className="absolute top-1 right-2 rounded-full text-red-600 border-red-600 border-2 hidden md:block "
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="24"
-              height="24"
+              width="22"
+              height="22"
               fill="currentColor"
               className="bi bi-x"
               viewBox="0 0 16 16"
