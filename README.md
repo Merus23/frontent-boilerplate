@@ -21,7 +21,7 @@ The properties of a component must be declared inside the component and export w
 ```typescript
 export interface Example {};
 ```
-
+Folder structure
 ```
 frontent-boilerplate/
 ├── src/
